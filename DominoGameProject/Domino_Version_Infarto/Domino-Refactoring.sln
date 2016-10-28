@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoCliente", "DominoCliente\DominoCliente.csproj", "{9FFE413D-DF5C-437E-8CF1-8B3489E31E2C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{31EB57AF-D8FA-4CE5-A412-0676CF62B423} = {31EB57AF-D8FA-4CE5-A412-0676CF62B423}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoService", "DominoService\DominoService.csproj", "{31EB57AF-D8FA-4CE5-A412-0676CF62B423}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cliente", "Cliente", "{919F0E42-32E0-4478-B2FC-41D4CD182330}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servidor", "Servidor", "{786B269A-ED5E-47F0-8DE1-9B863893EC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasDeSistema", "PruebasDeSistema\PruebasDeSistema.csproj", "{9D92F35E-63BB-4A9B-BBE7-7F453700F59B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoServiceTest", "DominoServiceTest\DominoServiceTest.csproj", "{2911BA35-8C81-4ECA-B820-331D4EE712B7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://agile.sel.inf.uc3m.es:8080/tfs/tads2015
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DominoCliente\\DominoCliente.csproj
+		SccProjectTopLevelParentUniqueName1 = Domino-Refactoring.sln
+		SccProjectName1 = DominoCliente
+		SccLocalPath1 = DominoCliente
+		SccProjectUniqueName2 = DominoService\\DominoService.csproj
+		SccProjectTopLevelParentUniqueName2 = Domino-Refactoring.sln
+		SccProjectName2 = DominoService
+		SccLocalPath2 = DominoService
+		SccProjectUniqueName3 = PruebasDeSistema\\PruebasDeSistema.csproj
+		SccProjectTopLevelParentUniqueName3 = Domino-Refactoring.sln
+		SccProjectName3 = PruebasDeSistema
+		SccLocalPath3 = PruebasDeSistema
+		SccProjectUniqueName4 = DominoServiceTest\\DominoServiceTest.csproj
+		SccProjectTopLevelParentUniqueName4 = Domino-Refactoring.sln
+		SccProjectName4 = DominoServiceTest
+		SccLocalPath4 = DominoServiceTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FFE413D-DF5C-437E-8CF1-8B3489E31E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFE413D-DF5C-437E-8CF1-8B3489E31E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFE413D-DF5C-437E-8CF1-8B3489E31E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFE413D-DF5C-437E-8CF1-8B3489E31E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EB57AF-D8FA-4CE5-A412-0676CF62B423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EB57AF-D8FA-4CE5-A412-0676CF62B423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EB57AF-D8FA-4CE5-A412-0676CF62B423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EB57AF-D8FA-4CE5-A412-0676CF62B423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D92F35E-63BB-4A9B-BBE7-7F453700F59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D92F35E-63BB-4A9B-BBE7-7F453700F59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D92F35E-63BB-4A9B-BBE7-7F453700F59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D92F35E-63BB-4A9B-BBE7-7F453700F59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2911BA35-8C81-4ECA-B820-331D4EE712B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2911BA35-8C81-4ECA-B820-331D4EE712B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2911BA35-8C81-4ECA-B820-331D4EE712B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2911BA35-8C81-4ECA-B820-331D4EE712B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9FFE413D-DF5C-437E-8CF1-8B3489E31E2C} = {919F0E42-32E0-4478-B2FC-41D4CD182330}
+		{9D92F35E-63BB-4A9B-BBE7-7F453700F59B} = {919F0E42-32E0-4478-B2FC-41D4CD182330}
+		{31EB57AF-D8FA-4CE5-A412-0676CF62B423} = {786B269A-ED5E-47F0-8DE1-9B863893EC9E}
+		{2911BA35-8C81-4ECA-B820-331D4EE712B7} = {786B269A-ED5E-47F0-8DE1-9B863893EC9E}
+	EndGlobalSection
+EndGlobal

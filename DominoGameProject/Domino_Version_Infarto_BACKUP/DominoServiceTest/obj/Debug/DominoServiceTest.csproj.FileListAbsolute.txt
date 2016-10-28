@@ -1,0 +1,7 @@
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoServiceTest\bin\Debug\DominoServiceTest.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoServiceTest\bin\Debug\DominoServiceTest.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoServiceTest\bin\Debug\DominoService.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoServiceTest\bin\Debug\DominoService.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoServiceTest\obj\Debug\DominoServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoServiceTest\obj\Debug\DominoServiceTest.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoServiceTest\obj\Debug\DominoServiceTest.pdb

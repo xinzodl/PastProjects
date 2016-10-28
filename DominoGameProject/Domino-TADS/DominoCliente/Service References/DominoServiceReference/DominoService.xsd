@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:1707/DominoService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/DominoService" />
+  <xs:element name="RequestSitPlayer">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PlayerName" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewPlayerJoined">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/DominoService" minOccurs="0" name="player" nillable="true" type="q1:PlayerData" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PlayerNotSat">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ErrorMessage" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ShowPiece">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/DominoService" minOccurs="0" name="piece" nillable="true" type="q2:PieceData" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PutPiece">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="StartPieceInt" type="xs:int" />
+        <xs:element minOccurs="0" name="PiecePosition" type="xs:int" />
+        <xs:element minOccurs="0" name="PlayerPosition" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

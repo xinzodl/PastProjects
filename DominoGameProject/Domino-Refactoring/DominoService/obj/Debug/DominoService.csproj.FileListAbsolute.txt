@@ -1,0 +1,5 @@
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoService\bin\DominoService.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoService\bin\DominoService.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoService\obj\Debug\DominoService.csprojResolveAssemblyReference.cache
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoService\obj\Debug\DominoService.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoService\obj\Debug\DominoService.pdb

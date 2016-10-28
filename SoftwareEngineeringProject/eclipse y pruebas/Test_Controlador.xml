@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Test_Controlador" project="PDS_Final" tests="30" started="30" failures="0" errors="0" ignored="1">
+  <testsuite name="test.Test_Controlador" time="0.036">
+    <testcase name="testHaz_vigenere_1" classname="test.Test_Controlador" time="0.001"/>
+    <testcase name="testHaz_vigenere_2" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_vigenere_3" classname="test.Test_Controlador" time="0.003"/>
+    <testcase name="testHaz_attbash_1" classname="test.Test_Controlador" time="0.008"/>
+    <testcase name="testHaz_attbash_2" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_3" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_4" classname="test.Test_Controlador" time="0.001"/>
+    <testcase name="testHaz_attbash_5" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_6" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_7" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_8" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_9" classname="test.Test_Controlador" time="0.001"/>
+    <testcase name="testHaz_vernam_1" classname="test.Test_Controlador" time="0.006"/>
+    <testcase name="testHaz_vernam_2" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_vernam_3" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_vernam_4" classname="test.Test_Controlador" time="0.001"/>
+    <testcase name="testHaz_cesar_1" classname="test.Test_Controlador" time="0.006"/>
+    <testcase name="testHaz_cesar_2" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_cesar_3" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_cesar_4" classname="test.Test_Controlador" time="0.004"/>
+    <testcase name="testControlador" classname="test.Test_Controlador" time="0.0" ignored="true"/>
+    <testcase name="testHaz_attbash_10" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_11" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_12" classname="test.Test_Controlador" time="0.001"/>
+    <testcase name="testHaz_attbash_13" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_14" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_15" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_16" classname="test.Test_Controlador" time="0.001"/>
+    <testcase name="testHaz_attbash_17" classname="test.Test_Controlador" time="0.0"/>
+    <testcase name="testHaz_attbash_18" classname="test.Test_Controlador" time="0.002"/>
+  </testsuite>
+</testrun>

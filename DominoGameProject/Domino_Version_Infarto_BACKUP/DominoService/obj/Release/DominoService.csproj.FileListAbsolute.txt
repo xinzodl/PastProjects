@@ -1,0 +1,4 @@
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoService\bin\DominoService.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoService\bin\DominoService.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoService\obj\Release\DominoService.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoService\obj\Release\DominoService.pdb

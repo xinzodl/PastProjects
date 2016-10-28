@@ -1,0 +1,9 @@
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\bin\Debug\DominoClienteTest.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\bin\Debug\DominoClienteTest.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\bin\Debug\DominoCliente.exe
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\bin\Debug\DominoService.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\bin\Debug\DominoCliente.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\bin\Debug\DominoService.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\obj\Debug\DominoClienteTest.csprojResolveAssemblyReference.cache
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\obj\Debug\DominoClienteTest.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\DominoClienteTest\obj\Debug\DominoClienteTest.pdb

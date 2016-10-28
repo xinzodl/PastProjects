@@ -1,0 +1,5 @@
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino-Refactoring\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

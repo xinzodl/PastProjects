@@ -1,0 +1,29 @@
+Carlos Contreras Sanz 100303562
+Alvaro Gomez Ramos 100307009
+
+Como comentario a esta parte de la practica decir que hemso tenido que hacer algunos cambios
+con respecto al diseño que entregamos para poder hacer la insercion, y aun asi no hemos sido
+capaces de hacerlo todo bien.
+
+Los cambios son, por ejemplo cambios en los tipos de datos o su longitud, en el caso de los 
+char (año de competicion,...) para adecuarlos a los que tiene la base de datos vieja. Otro
+Cambio es que premio de competicion puede leerse como null, o coger com clave primaria de
+categoria el nombre, para evitarnos hacer una join cada vez que tuviesemos que insertar 
+algo con ese atributo. Hay ademas algunos cambios en PK y en atributos, como la hora de
+la evidencia de dopaje.
+
+En cuanto a la carga, los datos de las tablas creemos que son correctos, exceptuando las
+de deportista_deferado, seccion_inscrita y vencedor, ya que en los tres casos nos sale 
+el mismo error, que nos lleva a seccion, con una combinacion de su PK que no esta cargada en 
+esta tabla. Creemos haber localizado el problema con la lista de paises, pero dado que lo
+descubrimos a ultima hora, no hemso sido capaces de resolverlo a tiempo.
+
+No llegamos a entender a que se debe el tener dos paises, y que significa que estos sean 
+diferentes, y en una de nuestra ultias pruebas vimos que añadiendo WHERE pais=pais_club,
+se podria solucionar el problema, en insertaria datos, pero por ejemplo, cargar poco 
+mas de 200 deportistas federados nos parece que no es correcto, dada la cantidad ingente
+de tuplas y deportistas que hay, y teniendo en cuenta que en esa tabla deberia haber una
+fila por cada deporte en el que esta federado esa persona.
+
+Pero como decimos, creemos que el error viene derivado de los atributos pais / pais_club,
+pero no hemos sido capaces de resolverloa tiempo para la entrega de esta practica.

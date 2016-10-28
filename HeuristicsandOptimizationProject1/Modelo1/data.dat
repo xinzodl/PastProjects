@@ -1,0 +1,47 @@
+/*
+AUTORES:
+		Alvaro Gomez Ramos 100307009
+		Carlos Contreras Sanz 100303562
+*/
+
+
+data;
+/* data  section */
+
+/*cuantos autobuses y rutas tenemos, usados para las variables y recorrerlas*/
+set BUS := BUS1 BUS2 BUS3 BUS4;
+set RUTA := RUTA1 RUTA2 RUTA3 RUTA4 RUTA5 RUTA6;
+
+/*datos para los calculos de funcion objetivo y restricciones*/
+
+/*km de cada ruta*/
+param DISTANCIA:=
+RUTA1		500
+RUTA2		700
+RUTA3		550
+RUTA4		200
+RUTA5		300
+RUTA6		100;
+
+/*consumo de cada bus en cada 100km*/
+param COSTE_KM:=
+BUS1		40
+BUS2		50
+BUS3		35
+BUS4		45;
+
+/*velocidad de cada bus en km/h*/
+param VELOCIDAD_KmH:=
+BUS1		100
+BUS2		90
+BUS3		80
+BUS4		90;
+
+/*sueldo de cada conductor por hora*/
+param COSTE_H:=
+BUS1		20
+BUS2		20
+BUS3		20
+BUS4		20;
+
+end;

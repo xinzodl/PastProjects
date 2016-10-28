@@ -1,0 +1,9 @@
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\obj\Release\DominoCliente.csprojResolveAssemblyReference.cache
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\obj\Release\DominoCliente.Domino.resources
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\obj\Release\DominoCliente.Properties.Resources.resources
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\obj\Release\DominoCliente.csproj.GenerateResource.Cache
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\bin\Release\DominoCliente.exe.config
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\bin\Release\DominoCliente.exe
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\bin\Release\DominoCliente.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\obj\Release\DominoCliente.exe
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\DominoCliente\obj\Release\DominoCliente.pdb

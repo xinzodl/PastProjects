@@ -1,0 +1,5 @@
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\PruebasDeSistema\bin\Debug\PruebasDeSistema.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\PruebasDeSistema\bin\Debug\PruebasDeSistema.pdb
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\PruebasDeSistema\obj\Debug\PruebasDeSistema.csprojResolveAssemblyReference.cache
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\PruebasDeSistema\obj\Debug\PruebasDeSistema.dll
+C:\Users\XinZodl\Desktop\TADS\GrupoE\Domino_Version_Infarto\PruebasDeSistema\obj\Debug\PruebasDeSistema.pdb
